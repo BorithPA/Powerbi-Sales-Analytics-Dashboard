@@ -1,0 +1,7 @@
+salesperson_id,salesperson_name,region,region_manager
+SP01,Alice,South,Manager C
+SP02,Bob,North,Manager A
+SP03,Charlie,West,Manager B
+SP04,Diana,South,Manager B
+SP05,Eve,South,Manager D
+SP06,Frank,West,Manager D
